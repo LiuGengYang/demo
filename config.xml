@@ -10,4 +10,5 @@
     <access origin="*" />
     <preference name="windowBackground" value="#FFF" />
     <permission name="call" />
+    <preference name="debug" value="true"/>
 </widget>
